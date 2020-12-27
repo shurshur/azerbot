@@ -1,0 +1,757 @@
+[
+  {
+    "triggers": [
+      "müəllim"
+    ],
+    "suggest": "öyrədici",
+    "link": "https://t.me/azerbaycan_turki/88"
+  },
+  {
+    "triggers": [
+      "o zaman"
+    ],
+    "suggest": "onda",
+    "link": "https://t.me/azerbaycan_turki/90"
+  },
+  {
+    "triggers": [
+      "istiqamət"
+    ],
+    "suggest": "yön",
+    "link": "https://t.me/azerbaycan_turki/98"
+  },
+  {
+    "triggers": [
+      "tualet"
+    ],
+    "suggest": "ayaqyolu",
+    "link": "https://t.me/azerbaycan_turki/108"
+  },
+  {
+    "triggers": [
+      "qaliba"
+    ],
+    "suggest": "deyəsən",
+    "link": "https://t.me/azerbaycan_turki/118"
+  },
+  {
+    "triggers": [
+      "şərab"
+    ],
+    "suggest": "çaxır",
+    "link": "https://t.me/azerbaycan_turki/122"
+  },
+  {
+    "triggers": [
+      "kəlmə"
+    ],
+    "suggest": "söz",
+    "link": "https://t.me/azerbaycan_turki/145"
+  },
+  {
+    "triggers": [
+      "zatən"
+    ],
+    "suggest": "onsuz da",
+    "link": "https://t.me/azerbaycan_turki/178"
+  },
+  {
+    "triggers": [
+      "bahəm"
+    ],
+    "suggest": "birgə",
+    "link": "https://t.me/azerbaycan_turki/185"
+  },
+  {
+    "triggers": [
+      "məhəbbət"
+    ],
+    "suggest": "sevgi",
+    "link": "https://t.me/azerbaycan_turki/194"
+  },
+  {
+    "triggers": [
+      "şərh"
+    ],
+    "suggest": "yozum",
+    "link": "https://t.me/azerbaycan_turki/197"
+  },
+  {
+    "triggers": [
+      "etiket"
+    ],
+    "suggest": "yarlıq",
+    "link": "https://t.me/azerbaycan_turki/207"
+  },
+  {
+    "triggers": [
+      "bahar"
+    ],
+    "suggest": "yaz",
+    "link": "https://t.me/azerbaycan_turki/216"
+  },
+  {
+    "triggers": [
+      "övlad"
+    ],
+    "suggest": "bala",
+    "link": "https://t.me/azerbaycan_turki/239"
+  },
+  {
+    "triggers": [
+      "sabah"
+    ],
+    "suggest": "yarın",
+    "link": "https://t.me/azerbaycan_turki/246"
+  },
+  {
+    "triggers": [
+      "sifariş"
+    ],
+    "suggest": "tapşırıq",
+    "link": "https://t.me/azerbaycan_turki/259"
+  },
+  {
+    "triggers": [
+      "rəğmən"
+    ],
+    "suggest": "baxmayaraq",
+    "link": "https://t.me/azerbaycan_turki/264"
+  },
+  {
+    "triggers": [
+      "əmredici"
+    ],
+    "suggest": "buyurucu",
+    "link": "https://t.me/azerbaycan_turki/271"
+  },
+  {
+    "triggers": [
+      "imtahan"
+    ],
+    "suggest": "sınaq",
+    "link": "https://t.me/azerbaycan_turki/288"
+  },
+  {
+    "triggers": [
+      "buxarı",
+      "kamin"
+    ],
+    "suggest": "ocaq",
+    "link": "https://t.me/azerbaycan_turki/307"
+  },
+  {
+    "triggers": [
+      "bədbəxt"
+    ],
+    "suggest": "qaragün",
+    "link": "https://t.me/azerbaycan_turki/323"
+  },
+  {
+    "triggers": [
+      "istiqbal"
+    ],
+    "suggest": "gələcək",
+    "link": "https://t.me/azerbaycan_turki/350"
+  },
+  {
+    "triggers": [
+      "canavar"
+    ],
+    "suggest": "börü",
+    "link": "https://t.me/azerbaycan_turki/367"
+  },
+  {
+    "triggers": [
+      "cavan"
+    ],
+    "suggest": "gənc",
+    "link": "https://t.me/azerbaycan_turki/406"
+  },
+  {
+    "triggers": [
+      "həsrət"
+    ],
+    "suggest": "özləm",
+    "link": "https://t.me/azerbaycan_turki/416"
+  },
+  {
+    "triggers": [
+      "qərb"
+    ],
+    "suggest": "günbatan, batı",
+    "link": "https://t.me/azerbaycan_turki/1750"
+  },
+  {
+    "triggers": [
+      "şimal"
+    ],
+    "suggest": "quzey",
+    "link": "https://t.me/azerbaycan_turki/1750"
+  },
+  {
+    "triggers": [
+      "bəli"
+    ],
+    "suggest": "hə, əvət",
+    "link": "https://t.me/azerbaycan_turki/448"
+  },
+  {
+    "triggers": [
+      "silah"
+    ],
+    "suggest": "yaraq",
+    "link": "https://t.me/azerbaycan_turki/458"
+  },
+  {
+    "triggers": [
+      "xeyr"
+    ],
+    "suggest": "yox",
+    "link": "https://t.me/azerbaycan_turki/462"
+  },
+  {
+    "triggers": [
+      "istirahət etmək"
+    ],
+    "suggest": "dincəlmək",
+    "link": "https://t.me/azerbaycan_turki/467"
+  },
+  {
+    "triggers": [
+      "atəş"
+    ],
+    "suggest": "od",
+    "link": "https://t.me/azerbaycan_turki/474"
+  },
+  {
+    "triggers": [
+      "tənha"
+    ],
+    "suggest": "yalnız, yalqız",
+    "link": "https://t.me/azerbaycan_turki/481"
+  },
+  {
+    "triggers": [
+      "eynək"
+    ],
+    "suggest": "gözlük",
+    "link": "https://t.me/azerbaycan_turki/487"
+  },
+  {
+    "triggers": [
+      "dəfə",
+      "kərə"
+    ],
+    "suggest": "gəz",
+    "link": "https://t.me/azerbaycan_turki/492"
+  },
+  {
+    "triggers": [
+      "payız"
+    ],
+    "suggest": "güz",
+    "link": "https://t.me/azerbaycan_turki/499"
+  },
+  {
+    "triggers": [
+      "pəhləvan"
+    ],
+    "suggest": "igid",
+    "link": "https://t.me/azerbaycan_turki/501"
+  },
+  {
+    "triggers": [
+      "kənar"
+    ],
+    "suggest": "qıraq",
+    "link": "https://t.me/azerbaycan_turki/521"
+  },
+  {
+    "triggers": [
+      "link"
+    ],
+    "suggest": "keçid",
+    "link": "https://t.me/azerbaycan_turki/552"
+  },
+  {
+    "triggers": [
+      "düşmən"
+    ],
+    "suggest": "yağı",
+    "link": "https://t.me/azerbaycan_turki/557"
+  },
+  {
+    "triggers": [
+      "azad",
+      "sərbəst"
+    ],
+    "suggest": "boş",
+    "link": "https://t.me/azerbaycan_turki/562"
+  },
+  {
+    "triggers": [
+      "müasir",
+      "modern"
+    ],
+    "suggest": "çağdaş",
+    "link": "https://t.me/azerbaycan_turki/565"
+  },
+  {
+    "triggers": [
+      "müharibə"
+    ],
+    "suggest": "savaş",
+    "link": "https://t.me/azerbaycan_turki/570"
+  },
+  {
+    "triggers": [
+      "məsafə",
+      "distansiya"
+    ],
+    "suggest": "ara",
+    "link": "https://t.me/azerbaycan_turki/575"
+  },
+  {
+    "triggers": [
+      "əksəriyyət"
+    ],
+    "suggest": "çoxluq",
+    "link": "https://t.me/azerbaycan_turki/589"
+  },
+  {
+    "triggers": [
+      "nə vaxt",
+      "nə zaman"
+    ],
+    "suggest": "haçağ, haçan",
+    "link": "https://t.me/azerbaycan_turki/603"
+  },
+  {
+    "triggers": [
+      "mənbə"
+    ],
+    "suggest": "qaynaq",
+    "link": "https://t.me/azerbaycan_turki/611"
+  },
+  {
+    "triggers": [
+      "vaxt",
+      "zaman"
+    ],
+    "suggest": "çağ",
+    "link": "https://t.me/azerbaycan_turki/613"
+  },
+  {
+    "triggers": [
+      "ruzigar"
+    ],
+    "suggest": "külək, yel",
+    "link": "https://t.me/azerbaycan_turki/616"
+  },
+  {
+    "triggers": [
+      "məmləkət"
+    ],
+    "suggest": "el",
+    "link": "https://t.me/azerbaycan_turki/625"
+  },
+  {
+    "triggers": [
+      "partnyor"
+    ],
+    "suggest": "oyundaş",
+    "link": "https://t.me/azerbaycan_turki/627"
+  },
+  {
+    "triggers": [
+      "şərik"
+    ],
+    "suggest": "yoldaş, arxadaş",
+    "link": "https://t.me/azerbaycan_turki/631"
+  },
+  {
+    "triggers": [
+      "məclis",
+      "iclas",
+      "müşavirə",
+      "konfrans",
+      "konqres",
+      "parlament"
+    ],
+    "suggest": "yığıncaq, toplanış, qurultay",
+    "link": "https://t.me/azerbaycan_turki/637"
+  },
+  {
+    "triggers": [
+      "nümunə",
+      "misal",
+      "timsal"
+    ],
+    "suggest": "örnək",
+    "link": "https://t.me/azerbaycan_turki/640"
+  },
+  {
+    "triggers": [
+      "röya"
+    ],
+    "suggest": "yuxu, uyqu, duş",
+    "link": "https://t.me/azerbaycan_turki/651"
+  },
+  {
+    "triggers": [
+      "ərzaq"
+    ],
+    "suggest": "azuq(ə), azıq",
+    "link": "https://t.me/azerbaycan_turki/672"
+  },
+  {
+    "triggers": [
+      "kəmər"
+    ],
+    "suggest": "qayış",
+    "link": "https://t.me/azerbaycan_turki/681"
+  },
+  {
+    "triggers": [
+      "bəddua",
+      "lənət",
+      "nifrin"
+    ],
+    "suggest": "qarğış",
+    "link": "https://t.me/azerbaycan_turki/698"
+  },
+  {
+    "triggers": [
+      "məlumat",
+      "xəbər"
+    ],
+    "suggest": "yenilik, soraq, salıq",
+    "link": "https://t.me/azerbaycan_turki/709"
+  },
+  {
+    "triggers": [
+      "labirint"
+    ],
+    "suggest": "dolanbac",
+    "link": "https://t.me/azerbaycan_turki/733"
+  },
+  {
+    "triggers": [
+      "rastlaşmaq",
+      "rast gəlmək"
+    ],
+    "suggest": "uğramaq, uğraşmaq; üz üzə gəlmək, üzləşmək; qarşı-qarşıya gəlmək, qarşılaşmaq",
+    "link": "https://t.me/azerbaycan_turki/755"
+  },
+  {
+    "triggers": [
+      "həm"
+    ],
+    "suggest": "da, də",
+    "link": "https://t.me/azerbaycan_turki/758"
+  },
+  {
+    "triggers": [
+      "həm"
+    ],
+    "suggest": "...daş",
+    "link": "https://t.me/azerbaycan_turki/759"
+  },
+  {
+    "triggers": [
+      "zəngin"
+    ],
+    "suggest": "varlı",
+    "link": "https://t.me/azerbaycan_turki/767"
+  },
+  {
+    "triggers": [
+      "digər"
+    ],
+    "suggest": "başqa, ayrı",
+    "link": "https://t.me/azerbaycan_turki/774"
+  },
+  {
+    "triggers": [
+      "hiss"
+    ],
+    "suggest": "duyğu",
+    "link": "https://t.me/azerbaycan_turki/782"
+  },
+  {
+    "triggers": [
+      "hiss etmək"
+    ],
+    "suggest": "duymaq",
+    "link": "https://t.me/azerbaycan_turki/783"
+  },
+  {
+    "triggers": [
+      "məhv etmək",
+      "tələf etmək"
+    ],
+    "suggest": "yox etmək, puç etmək",
+    "link": "https://t.me/azerbaycan_turki/927"
+  },
+  {
+    "triggers": [
+      "hamilə"
+    ],
+    "suggest": "boyudolu, boylu",
+    "link": "https://t.me/azerbaycan_turki/932"
+  },
+  {
+    "triggers": [
+      "dərk etmək"
+    ],
+    "suggest": "başa düşmək, anlamaq",
+    "link": "https://t.me/azerbaycan_turki/935"
+  },
+  {
+    "triggers": [
+      "dərd",
+      "bəla"
+    ],
+    "suggest": "qada",
+    "link": "https://t.me/azerbaycan_turki/964"
+  },
+  {
+    "triggers": [
+      "pis",
+      "bəd",
+      "fəna"
+    ],
+    "suggest": "yaman",
+    "link": "https://t.me/azerbaycan_turki/970"
+  },
+  {
+    "triggers": [
+      "qatil"
+    ],
+    "suggest": "öldürən",
+    "link": "https://t.me/azerbaycan_turki/981"
+  },
+  {
+    "triggers": [
+      "meşə",
+      "meşe (ər)"
+    ],
+    "suggest": "orman, yış ",
+    "link": "https://t.me/azerbaycan_turki/985"
+  },
+  {
+    "triggers": [
+      "səhhət (ər)"
+    ],
+    "suggest": "sağlıq sağlamlıq",
+    "link": "https://t.me/azerbaycan_turki/1006"
+  },
+  {
+    "triggers": [
+      "şir (far)"
+    ],
+    "suggest": "aslan, arslan ",
+    "link": "https://t.me/azerbaycan_turki/1025"
+  },
+  {
+    "triggers": [
+      "gül (far)"
+    ],
+    "suggest": "çiçək ",
+    "link": "https://t.me/azerbaycan_turki/1028"
+  },
+  {
+    "triggers": [
+      "mütərcim",
+      "türcüməçi",
+      "tərcüman (ər)"
+    ],
+    "suggest": "Çevirən, Çevirici, Dilmanc",
+    "link": "https://t.me/azerbaycan_turki/1033"
+  },
+  {
+    "triggers": [
+      "lüğət (ər)"
+    ],
+    "suggest": "Sözlük",
+    "link": "https://t.me/azerbaycan_turki/1039"
+  },
+  {
+    "triggers": [
+      "nəsihət",
+      "i̇brət",
+      "məsləhət (ər)"
+    ],
+    "suggest": "Öyüd",
+    "link": "https://t.me/azerbaycan_turki/1069"
+  },
+  {
+    "triggers": [
+      "sülh (ər)"
+    ],
+    "suggest": "Barış",
+    "link": "https://t.me/azerbaycan_turki/1073"
+  },
+  {
+    "triggers": [
+      "abır",
+      "həya",
+      "(ər)"
+    ],
+    "suggest": "Ud (Ut)",
+    "link": "https://t.me/azerbaycan_turki/1075"
+  },
+  {
+    "triggers": [
+      "məşhur",
+      "şöhrətli (ər)"
+    ],
+    "suggest": "Adlı-sanlı, Tanınmış ",
+    "link": "https://t.me/azerbaycan_turki/1083"
+  },
+  {
+    "triggers": [
+      "ağıl",
+      "zəka",
+      "i̇drak (ər)"
+    ],
+    "suggest": "Us",
+    "link": "https://t.me/azerbaycan_turki/1113"
+  },
+  {
+    "triggers": [
+      "sual (ər)"
+    ],
+    "suggest": "sorğu, soruğ",
+    "link": "https://t.me/azerbaycan_turki/1507"
+  },
+  {
+    "triggers": [
+      "hədiyyə",
+      "töhfə",
+      "bəxşiş",
+      "peşkəş (ər)"
+    ],
+    "suggest": "Armağan (Ərməğan), Sovqat, Pay",
+    "link": "https://t.me/azerbaycan_turki/1511"
+  },
+  {
+    "triggers": [
+      "maaş",
+      "müvacib (ər)"
+    ],
+    "suggest": "Donluq, Aylıq",
+    "link": "https://t.me/azerbaycan_turki/1523"
+  },
+  {
+    "triggers": [
+      "pul",
+      "para (ər)"
+    ],
+    "suggest": "Ağca",
+    "link": "https://t.me/azerbaycan_turki/1550"
+  },
+  {
+    "triggers": [
+      "şey",
+      "zad (ər)"
+    ],
+    "suggest": "Nəsnə",
+    "link": "https://t.me/azerbaycan_turki/1563"
+  },
+  {
+    "triggers": [
+      "məkan (ər) lokasiya (lat)"
+    ],
+    "suggest": "Yerləşmə",
+    "link": "https://t.me/azerbaycan_turki/1604"
+  },
+  {
+    "triggers": [
+      "pələng (far)"
+    ],
+    "suggest": "Qaplan",
+    "link": "https://t.me/azerbaycan_turki/1622"
+  },
+  {
+    "triggers": [
+      "tərif",
+      "mədh (ər)"
+    ],
+    "suggest": "Öygü, Öymə, Alqış ",
+    "link": "https://t.me/azerbaycan_turki/1658"
+  },
+  {
+    "triggers": [
+      "admiral (ər)"
+    ],
+    "suggest": "Dənizbəyi",
+    "link": "https://t.me/azerbaycan_turki/1682"
+  },
+  {
+    "triggers": [
+      "i̇anə",
+      "təsəddüq (ər)"
+    ],
+    "suggest": "Bağış",
+    "link": "https://t.me/azerbaycan_turki/1703"
+  },
+  {
+    "triggers": [
+      "səfir",
+      "rəsul (ər)"
+    ],
+    "suggest": "Elçi",
+    "link": "https://t.me/azerbaycan_turki/1717"
+  },
+  {
+    "triggers": [
+      "şahid (ər)"
+    ],
+    "suggest": "Tanıq",
+    "link": "https://t.me/azerbaycan_turki/1723"
+  },
+  {
+    "triggers": [
+      "növ (ər) təhər (ər) çeşid (far)"
+    ],
+    "suggest": "Cür, Dürlü",
+    "link": "https://t.me/azerbaycan_turki/1737"
+  },
+  {
+    "triggers": [
+      "i̇mkan (ər)"
+    ],
+    "suggest": "Olarlıq ",
+    "link": "https://t.me/azerbaycan_turki/1738"
+  },
+  {
+    "triggers": [
+      "mümkün"
+    ],
+    "suggest": "Ola bilən, Olacaq",
+    "link": "https://t.me/azerbaycan_turki/1748"
+  },
+  {
+    "triggers": [
+      "cənub"
+    ],
+    "suggest": "Güney, Günəvər",
+    "link": "https://t.me/azerbaycan_turki/1750"
+  },
+  {
+    "triggers": [
+      "şərq"
+    ],
+    "suggest": "Doğu, Gündoğan, Günçıxan",
+    "link": "https://t.me/azerbaycan_turki/1750"
+  },
+  {
+    "triggers": [
+      "xilaskar"
+    ],
+    "suggest": "Qurtarıcı",
+    "link": "https://t.me/azerbaycan_turki/1752"
+  }
+]

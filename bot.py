@@ -47,7 +47,8 @@ def trigger_message(message):
       single_suggest_text = ", ".join(single_suggest_text_arr)
       suggest_text_arr.append(f"*{w}* yerinə {single_suggest_text} demək olar")
     suggest_msg = "\n\n".join(suggest_text_arr)
-    print (f" `--> {suggest_msg}")
+    suggest_msg_out = suggest_msg.replace('\n','\n      ')
+    print (f" `--> {suggest_msg_out}")
     bot.send_message(message.chat.id, suggest_msg, reply_to_message_id=message.message_id, parse_mode="Markdown", disable_web_page_preview=True)
 
 while True:

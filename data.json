@@ -35,8 +35,12 @@
       "müəllimlardan",
       "müəllimlərdən"
     ],
-    "suggest": "öyrədici",
-    "link": "https://t.me/azerbaycan_turki/88"
+    "suggests": [
+      {
+        "text": "öyrədici",
+        "link": "https://t.me/azerbaycan_turki/88"
+      }
+    ]
   },
   {
     "triggers": [
@@ -74,8 +78,12 @@
       "o zamanlardan",
       "o zamanlərdən"
     ],
-    "suggest": "onda",
-    "link": "https://t.me/azerbaycan_turki/90"
+    "suggests": [
+      {
+        "text": "onda",
+        "link": "https://t.me/azerbaycan_turki/90"
+      }
+    ]
   },
   {
     "triggers": [
@@ -113,8 +121,12 @@
       "istiqamətlardan",
       "istiqamətlərdən"
     ],
-    "suggest": "yön",
-    "link": "https://t.me/azerbaycan_turki/98"
+    "suggests": [
+      {
+        "text": "yön",
+        "link": "https://t.me/azerbaycan_turki/98"
+      }
+    ]
   },
   {
     "triggers": [
@@ -152,8 +164,12 @@
       "tualetlardan",
       "tualetlərdən"
     ],
-    "suggest": "ayaqyolu",
-    "link": "https://t.me/azerbaycan_turki/108"
+    "suggests": [
+      {
+        "text": "ayaqyolu",
+        "link": "https://t.me/azerbaycan_turki/108"
+      }
+    ]
   },
   {
     "triggers": [
@@ -191,8 +207,12 @@
       "qalibalardan",
       "qalibalərdən"
     ],
-    "suggest": "deyəsən",
-    "link": "https://t.me/azerbaycan_turki/118"
+    "suggests": [
+      {
+        "text": "deyəsən",
+        "link": "https://t.me/azerbaycan_turki/118"
+      }
+    ]
   },
   {
     "triggers": [
@@ -230,8 +250,12 @@
       "şərablardan",
       "şərablərdən"
     ],
-    "suggest": "çaxır",
-    "link": "https://t.me/azerbaycan_turki/122"
+    "suggests": [
+      {
+        "text": "çaxır",
+        "link": "https://t.me/azerbaycan_turki/122"
+      }
+    ]
   },
   {
     "triggers": [
@@ -269,8 +293,12 @@
       "kəlməlardan",
       "kəlmələrdən"
     ],
-    "suggest": "söz",
-    "link": "https://t.me/azerbaycan_turki/145"
+    "suggests": [
+      {
+        "text": "söz",
+        "link": "https://t.me/azerbaycan_turki/145"
+      }
+    ]
   },
   {
     "triggers": [
@@ -308,8 +336,12 @@
       "zatənlardan",
       "zatənlərdən"
     ],
-    "suggest": "onsuz da",
-    "link": "https://t.me/azerbaycan_turki/178"
+    "suggests": [
+      {
+        "text": "onsuz da",
+        "link": "https://t.me/azerbaycan_turki/178"
+      }
+    ]
   },
   {
     "triggers": [
@@ -347,8 +379,12 @@
       "bahəmlardan",
       "bahəmlərdən"
     ],
-    "suggest": "birgə",
-    "link": "https://t.me/azerbaycan_turki/185"
+    "suggests": [
+      {
+        "text": "birgə",
+        "link": "https://t.me/azerbaycan_turki/185"
+      }
+    ]
   },
   {
     "triggers": [
@@ -386,8 +422,12 @@
       "məhəbbətlardan",
       "məhəbbətlərdən"
     ],
-    "suggest": "sevgi",
-    "link": "https://t.me/azerbaycan_turki/194"
+    "suggests": [
+      {
+        "text": "sevgi",
+        "link": "https://t.me/azerbaycan_turki/194"
+      }
+    ]
   },
   {
     "triggers": [
@@ -425,8 +465,12 @@
       "şərhlardan",
       "şərhlərdən"
     ],
-    "suggest": "yozum",
-    "link": "https://t.me/azerbaycan_turki/197"
+    "suggests": [
+      {
+        "text": "yozum",
+        "link": "https://t.me/azerbaycan_turki/197"
+      }
+    ]
   },
   {
     "triggers": [
@@ -464,8 +508,12 @@
       "etiketlardan",
       "etiketlərdən"
     ],
-    "suggest": "yarlıq",
-    "link": "https://t.me/azerbaycan_turki/207"
+    "suggests": [
+      {
+        "text": "yarlıq",
+        "link": "https://t.me/azerbaycan_turki/207"
+      }
+    ]
   },
   {
     "triggers": [
@@ -503,8 +551,12 @@
       "baharlardan",
       "baharlərdən"
     ],
-    "suggest": "yaz",
-    "link": "https://t.me/azerbaycan_turki/216"
+    "suggests": [
+      {
+        "text": "yaz",
+        "link": "https://t.me/azerbaycan_turki/216"
+      }
+    ]
   },
   {
     "triggers": [
@@ -542,8 +594,12 @@
       "övladlardan",
       "övladlərdən"
     ],
-    "suggest": "bala",
-    "link": "https://t.me/azerbaycan_turki/239"
+    "suggests": [
+      {
+        "text": "bala",
+        "link": "https://t.me/azerbaycan_turki/239"
+      }
+    ]
   },
   {
     "triggers": [
@@ -581,8 +637,12 @@
       "sabahlardan",
       "sabahlərdən"
     ],
-    "suggest": "yarın",
-    "link": "https://t.me/azerbaycan_turki/246"
+    "suggests": [
+      {
+        "text": "yarın",
+        "link": "https://t.me/azerbaycan_turki/246"
+      }
+    ]
   },
   {
     "triggers": [
@@ -620,8 +680,12 @@
       "sifarişlardan",
       "sifarişlərdən"
     ],
-    "suggest": "tapşırıq",
-    "link": "https://t.me/azerbaycan_turki/259"
+    "suggests": [
+      {
+        "text": "tapşırıq",
+        "link": "https://t.me/azerbaycan_turki/259"
+      }
+    ]
   },
   {
     "triggers": [
@@ -659,8 +723,12 @@
       "rəğmənlardan",
       "rəğmənlərdən"
     ],
-    "suggest": "baxmayaraq",
-    "link": "https://t.me/azerbaycan_turki/264"
+    "suggests": [
+      {
+        "text": "baxmayaraq",
+        "link": "https://t.me/azerbaycan_turki/264"
+      }
+    ]
   },
   {
     "triggers": [
@@ -698,8 +766,12 @@
       "əmredicilardan",
       "əmredicilərdən"
     ],
-    "suggest": "buyurucu",
-    "link": "https://t.me/azerbaycan_turki/271"
+    "suggests": [
+      {
+        "text": "buyurucu",
+        "link": "https://t.me/azerbaycan_turki/271"
+      }
+    ]
   },
   {
     "triggers": [
@@ -737,8 +809,12 @@
       "imtahanlardan",
       "imtahanlərdən"
     ],
-    "suggest": "sınaq",
-    "link": "https://t.me/azerbaycan_turki/288"
+    "suggests": [
+      {
+        "text": "sınaq",
+        "link": "https://t.me/azerbaycan_turki/288"
+      }
+    ]
   },
   {
     "triggers": [
@@ -776,8 +852,12 @@
       "buxarılardan",
       "buxarılərdən"
     ],
-    "suggest": "ocaq",
-    "link": "https://t.me/azerbaycan_turki/307"
+    "suggests": [
+      {
+        "text": "ocaq",
+        "link": "https://t.me/azerbaycan_turki/307"
+      }
+    ]
   },
   {
     "triggers": [
@@ -815,8 +895,12 @@
       "kaminlardan",
       "kaminlərdən"
     ],
-    "suggest": "",
-    "link": "https://t.me/azerbaycan_turki/307"
+    "suggests": [
+      {
+        "text": "",
+        "link": "https://t.me/azerbaycan_turki/307"
+      }
+    ]
   },
   {
     "triggers": [
@@ -854,8 +938,12 @@
       "bədbəxtlardan",
       "bədbəxtlərdən"
     ],
-    "suggest": "qaragün",
-    "link": "https://t.me/azerbaycan_turki/323"
+    "suggests": [
+      {
+        "text": "qaragün",
+        "link": "https://t.me/azerbaycan_turki/323"
+      }
+    ]
   },
   {
     "triggers": [
@@ -893,8 +981,12 @@
       "istiqballardan",
       "istiqballərdən"
     ],
-    "suggest": "gələcək",
-    "link": "https://t.me/azerbaycan_turki/350"
+    "suggests": [
+      {
+        "text": "gələcək",
+        "link": "https://t.me/azerbaycan_turki/350"
+      }
+    ]
   },
   {
     "triggers": [
@@ -932,8 +1024,12 @@
       "canavarlardan",
       "canavarlərdən"
     ],
-    "suggest": "börü",
-    "link": "https://t.me/azerbaycan_turki/367"
+    "suggests": [
+      {
+        "text": "börü",
+        "link": "https://t.me/azerbaycan_turki/367"
+      }
+    ]
   },
   {
     "triggers": [
@@ -971,8 +1067,12 @@
       "cavanlardan",
       "cavanlərdən"
     ],
-    "suggest": "gənc",
-    "link": "https://t.me/azerbaycan_turki/406"
+    "suggests": [
+      {
+        "text": "gənc",
+        "link": "https://t.me/azerbaycan_turki/406"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1010,8 +1110,12 @@
       "həsrətlardan",
       "həsrətlərdən"
     ],
-    "suggest": "özləm",
-    "link": "https://t.me/azerbaycan_turki/416"
+    "suggests": [
+      {
+        "text": "özləm",
+        "link": "https://t.me/azerbaycan_turki/416"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1049,8 +1153,12 @@
       "qərblardan",
       "qərblərdən"
     ],
-    "suggest": "günbatan, batı",
-    "link": "https://t.me/azerbaycan_turki/1750"
+    "suggests": [
+      {
+        "text": "günbatan, batı",
+        "link": "https://t.me/azerbaycan_turki/1750"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1088,8 +1196,12 @@
       "şimallardan",
       "şimallərdən"
     ],
-    "suggest": "quzey",
-    "link": "https://t.me/azerbaycan_turki/1750"
+    "suggests": [
+      {
+        "text": "quzey",
+        "link": "https://t.me/azerbaycan_turki/1750"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1127,8 +1239,12 @@
       "bəlilardan",
       "bəlilərdən"
     ],
-    "suggest": "hə, əvət",
-    "link": "https://t.me/azerbaycan_turki/448"
+    "suggests": [
+      {
+        "text": "hə, əvət",
+        "link": "https://t.me/azerbaycan_turki/448"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1166,8 +1282,12 @@
       "silahlardan",
       "silahlərdən"
     ],
-    "suggest": "yaraq",
-    "link": "https://t.me/azerbaycan_turki/458"
+    "suggests": [
+      {
+        "text": "yaraq",
+        "link": "https://t.me/azerbaycan_turki/458"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1205,8 +1325,12 @@
       "xeyrlardan",
       "xeyrlərdən"
     ],
-    "suggest": "yox",
-    "link": "https://t.me/azerbaycan_turki/462"
+    "suggests": [
+      {
+        "text": "yox",
+        "link": "https://t.me/azerbaycan_turki/462"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1244,8 +1368,12 @@
       "istirahət etməklardan",
       "istirahət etməklərdən"
     ],
-    "suggest": "dincəlmək",
-    "link": "https://t.me/azerbaycan_turki/467"
+    "suggests": [
+      {
+        "text": "dincəlmək",
+        "link": "https://t.me/azerbaycan_turki/467"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1283,8 +1411,12 @@
       "atəşlardan",
       "atəşlərdən"
     ],
-    "suggest": "od",
-    "link": "https://t.me/azerbaycan_turki/474"
+    "suggests": [
+      {
+        "text": "od",
+        "link": "https://t.me/azerbaycan_turki/474"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1322,8 +1454,12 @@
       "tənhalardan",
       "tənhalərdən"
     ],
-    "suggest": "yalnız, yalqız",
-    "link": "https://t.me/azerbaycan_turki/481"
+    "suggests": [
+      {
+        "text": "yalnız, yalqız",
+        "link": "https://t.me/azerbaycan_turki/481"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1361,8 +1497,12 @@
       "eynəklardan",
       "eynəklərdən"
     ],
-    "suggest": "gözlük",
-    "link": "https://t.me/azerbaycan_turki/487"
+    "suggests": [
+      {
+        "text": "gözlük",
+        "link": "https://t.me/azerbaycan_turki/487"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1400,8 +1540,12 @@
       "dəfəlardan",
       "dəfələrdən"
     ],
-    "suggest": "gəz",
-    "link": "https://t.me/azerbaycan_turki/492"
+    "suggests": [
+      {
+        "text": "gəz",
+        "link": "https://t.me/azerbaycan_turki/492"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1439,8 +1583,12 @@
       "kərəlardan",
       "kərələrdən"
     ],
-    "suggest": "gəz",
-    "link": "https://t.me/azerbaycan_turki/492"
+    "suggests": [
+      {
+        "text": "gəz",
+        "link": "https://t.me/azerbaycan_turki/492"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1478,8 +1626,12 @@
       "payızlardan",
       "payızlərdən"
     ],
-    "suggest": "güz",
-    "link": "https://t.me/azerbaycan_turki/499"
+    "suggests": [
+      {
+        "text": "güz",
+        "link": "https://t.me/azerbaycan_turki/499"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1517,8 +1669,12 @@
       "pəhləvanlardan",
       "pəhləvanlərdən"
     ],
-    "suggest": "igid",
-    "link": "https://t.me/azerbaycan_turki/501"
+    "suggests": [
+      {
+        "text": "igid",
+        "link": "https://t.me/azerbaycan_turki/501"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1556,8 +1712,12 @@
       "kənarlardan",
       "kənarlərdən"
     ],
-    "suggest": "qıraq",
-    "link": "https://t.me/azerbaycan_turki/521"
+    "suggests": [
+      {
+        "text": "qıraq",
+        "link": "https://t.me/azerbaycan_turki/521"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1595,8 +1755,12 @@
       "linklardan",
       "linklərdən"
     ],
-    "suggest": "keçid",
-    "link": "https://t.me/azerbaycan_turki/552"
+    "suggests": [
+      {
+        "text": "keçid",
+        "link": "https://t.me/azerbaycan_turki/552"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1634,8 +1798,12 @@
       "düşmənlardan",
       "düşmənlərdən"
     ],
-    "suggest": "yağı",
-    "link": "https://t.me/azerbaycan_turki/557"
+    "suggests": [
+      {
+        "text": "yağı",
+        "link": "https://t.me/azerbaycan_turki/557"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1673,8 +1841,12 @@
       "azadlardan",
       "azadlərdən"
     ],
-    "suggest": "boş",
-    "link": "https://t.me/azerbaycan_turki/562"
+    "suggests": [
+      {
+        "text": "boş",
+        "link": "https://t.me/azerbaycan_turki/562"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1712,8 +1884,12 @@
       "sərbəstlardan",
       "sərbəstlərdən"
     ],
-    "suggest": "boş",
-    "link": "https://t.me/azerbaycan_turki/562"
+    "suggests": [
+      {
+        "text": "boş",
+        "link": "https://t.me/azerbaycan_turki/562"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1751,8 +1927,12 @@
       "müasirlardan",
       "müasirlərdən"
     ],
-    "suggest": "çağdaş",
-    "link": "https://t.me/azerbaycan_turki/565"
+    "suggests": [
+      {
+        "text": "çağdaş",
+        "link": "https://t.me/azerbaycan_turki/565"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1790,8 +1970,12 @@
       "modernlardan",
       "modernlərdən"
     ],
-    "suggest": "çağdaş",
-    "link": "https://t.me/azerbaycan_turki/565"
+    "suggests": [
+      {
+        "text": "çağdaş",
+        "link": "https://t.me/azerbaycan_turki/565"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1829,8 +2013,12 @@
       "müharibəlardan",
       "müharibələrdən"
     ],
-    "suggest": "savaş",
-    "link": "https://t.me/azerbaycan_turki/570"
+    "suggests": [
+      {
+        "text": "savaş",
+        "link": "https://t.me/azerbaycan_turki/570"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1868,8 +2056,12 @@
       "məsafəlardan",
       "məsafələrdən"
     ],
-    "suggest": "ara",
-    "link": "https://t.me/azerbaycan_turki/575"
+    "suggests": [
+      {
+        "text": "ara",
+        "link": "https://t.me/azerbaycan_turki/575"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1907,8 +2099,12 @@
       "distansiyalardan",
       "distansiyalərdən"
     ],
-    "suggest": "ara",
-    "link": "https://t.me/azerbaycan_turki/575"
+    "suggests": [
+      {
+        "text": "ara",
+        "link": "https://t.me/azerbaycan_turki/575"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1946,8 +2142,12 @@
       "əksəriyyətlardan",
       "əksəriyyətlərdən"
     ],
-    "suggest": "çoxluq",
-    "link": "https://t.me/azerbaycan_turki/589"
+    "suggests": [
+      {
+        "text": "çoxluq",
+        "link": "https://t.me/azerbaycan_turki/589"
+      }
+    ]
   },
   {
     "triggers": [
@@ -1985,8 +2185,12 @@
       "nə vaxtlardan",
       "nə vaxtlərdən"
     ],
-    "suggest": "haçağ, haçan",
-    "link": "https://t.me/azerbaycan_turki/603"
+    "suggests": [
+      {
+        "text": "haçağ, haçan",
+        "link": "https://t.me/azerbaycan_turki/603"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2024,8 +2228,12 @@
       "nə zamanlardan",
       "nə zamanlərdən"
     ],
-    "suggest": "haçağ, haçan",
-    "link": "https://t.me/azerbaycan_turki/603"
+    "suggests": [
+      {
+        "text": "haçağ, haçan",
+        "link": "https://t.me/azerbaycan_turki/603"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2063,8 +2271,12 @@
       "mənbəlardan",
       "mənbələrdən"
     ],
-    "suggest": "qaynaq",
-    "link": "https://t.me/azerbaycan_turki/611"
+    "suggests": [
+      {
+        "text": "qaynaq",
+        "link": "https://t.me/azerbaycan_turki/611"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2102,8 +2314,12 @@
       "vaxtlardan",
       "vaxtlərdən"
     ],
-    "suggest": "çağ",
-    "link": "https://t.me/azerbaycan_turki/613"
+    "suggests": [
+      {
+        "text": "çağ",
+        "link": "https://t.me/azerbaycan_turki/613"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2141,8 +2357,12 @@
       "zamanlardan",
       "zamanlərdən"
     ],
-    "suggest": "çağ",
-    "link": "https://t.me/azerbaycan_turki/613"
+    "suggests": [
+      {
+        "text": "çağ",
+        "link": "https://t.me/azerbaycan_turki/613"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2180,8 +2400,12 @@
       "ruzigarlardan",
       "ruzigarlərdən"
     ],
-    "suggest": "külək, yel",
-    "link": "https://t.me/azerbaycan_turki/616"
+    "suggests": [
+      {
+        "text": "külək, yel",
+        "link": "https://t.me/azerbaycan_turki/616"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2219,8 +2443,12 @@
       "məmləkətlardan",
       "məmləkətlərdən"
     ],
-    "suggest": "el",
-    "link": "https://t.me/azerbaycan_turki/625"
+    "suggests": [
+      {
+        "text": "el",
+        "link": "https://t.me/azerbaycan_turki/625"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2258,8 +2486,12 @@
       "partnyorlardan",
       "partnyorlərdən"
     ],
-    "suggest": "oyundaş",
-    "link": "https://t.me/azerbaycan_turki/627"
+    "suggests": [
+      {
+        "text": "oyundaş",
+        "link": "https://t.me/azerbaycan_turki/627"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2297,8 +2529,12 @@
       "şəriklardan",
       "şəriklərdən"
     ],
-    "suggest": "yoldaş, arxadaş",
-    "link": "https://t.me/azerbaycan_turki/631"
+    "suggests": [
+      {
+        "text": "yoldaş, arxadaş",
+        "link": "https://t.me/azerbaycan_turki/631"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2336,8 +2572,12 @@
       "məclislardan",
       "məclislərdən"
     ],
-    "suggest": "yığıncaq, toplanış, qurultay",
-    "link": "https://t.me/azerbaycan_turki/637"
+    "suggests": [
+      {
+        "text": "yığıncaq, toplanış, qurultay",
+        "link": "https://t.me/azerbaycan_turki/637"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2375,8 +2615,12 @@
       "iclaslardan",
       "iclaslərdən"
     ],
-    "suggest": "yığıncaq, toplanış, qurultay",
-    "link": "https://t.me/azerbaycan_turki/637"
+    "suggests": [
+      {
+        "text": "yığıncaq, toplanış, qurultay",
+        "link": "https://t.me/azerbaycan_turki/637"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2414,8 +2658,12 @@
       "konfranslardan",
       "konfranslərdən"
     ],
-    "suggest": "yığıncaq, toplanış, qurultay",
-    "link": "https://t.me/azerbaycan_turki/637"
+    "suggests": [
+      {
+        "text": "yığıncaq, toplanış, qurultay",
+        "link": "https://t.me/azerbaycan_turki/637"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2453,8 +2701,12 @@
       "konqreslardan",
       "konqreslərdən"
     ],
-    "suggest": "yığıncaq, toplanış, qurultay",
-    "link": "https://t.me/azerbaycan_turki/637"
+    "suggests": [
+      {
+        "text": "yığıncaq, toplanış, qurultay",
+        "link": "https://t.me/azerbaycan_turki/637"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2492,8 +2744,12 @@
       "parlamentlardan",
       "parlamentlərdən"
     ],
-    "suggest": "yığıncaq, toplanış, qurultay",
-    "link": "https://t.me/azerbaycan_turki/637"
+    "suggests": [
+      {
+        "text": "yığıncaq, toplanış, qurultay",
+        "link": "https://t.me/azerbaycan_turki/637"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2531,8 +2787,12 @@
       "nümunəlardan",
       "nümunələrdən"
     ],
-    "suggest": "örnək",
-    "link": "https://t.me/azerbaycan_turki/640"
+    "suggests": [
+      {
+        "text": "örnək",
+        "link": "https://t.me/azerbaycan_turki/640"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2570,8 +2830,12 @@
       "misallardan",
       "misallərdən"
     ],
-    "suggest": "örnək",
-    "link": "https://t.me/azerbaycan_turki/640"
+    "suggests": [
+      {
+        "text": "örnək",
+        "link": "https://t.me/azerbaycan_turki/640"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2609,8 +2873,12 @@
       "röyalardan",
       "röyalərdən"
     ],
-    "suggest": "yuxu, uyqu, duş",
-    "link": "https://t.me/azerbaycan_turki/651"
+    "suggests": [
+      {
+        "text": "yuxu, uyqu, duş",
+        "link": "https://t.me/azerbaycan_turki/651"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2648,8 +2916,12 @@
       "ərzaqlardan",
       "ərzaqlərdən"
     ],
-    "suggest": "azuq(ə), azıq",
-    "link": "https://t.me/azerbaycan_turki/672"
+    "suggests": [
+      {
+        "text": "azuq(ə), azıq",
+        "link": "https://t.me/azerbaycan_turki/672"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2687,8 +2959,12 @@
       "kəmərlardan",
       "kəmərlərdən"
     ],
-    "suggest": "qayış",
-    "link": "https://t.me/azerbaycan_turki/681"
+    "suggests": [
+      {
+        "text": "qayış",
+        "link": "https://t.me/azerbaycan_turki/681"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2726,8 +3002,12 @@
       "bəddualardan",
       "bəddualərdən"
     ],
-    "suggest": "qarğış",
-    "link": "https://t.me/azerbaycan_turki/698"
+    "suggests": [
+      {
+        "text": "qarğış",
+        "link": "https://t.me/azerbaycan_turki/698"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2765,8 +3045,12 @@
       "lənətlardan",
       "lənətlərdən"
     ],
-    "suggest": "qarğış",
-    "link": "https://t.me/azerbaycan_turki/698"
+    "suggests": [
+      {
+        "text": "qarğış",
+        "link": "https://t.me/azerbaycan_turki/698"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2804,8 +3088,12 @@
       "məlumatlardan",
       "məlumatlərdən"
     ],
-    "suggest": "yenilik, soraq, salıq",
-    "link": "https://t.me/azerbaycan_turki/709"
+    "suggests": [
+      {
+        "text": "yenilik, soraq, salıq",
+        "link": "https://t.me/azerbaycan_turki/709"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2843,8 +3131,12 @@
       "xəbərlardan",
       "xəbərlərdən"
     ],
-    "suggest": "yenilik, soraq, salıq",
-    "link": "https://t.me/azerbaycan_turki/709"
+    "suggests": [
+      {
+        "text": "yenilik, soraq, salıq",
+        "link": "https://t.me/azerbaycan_turki/709"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2882,8 +3174,12 @@
       "labirintlardan",
       "labirintlərdən"
     ],
-    "suggest": "dolanbac",
-    "link": "https://t.me/azerbaycan_turki/733"
+    "suggests": [
+      {
+        "text": "dolanbac",
+        "link": "https://t.me/azerbaycan_turki/733"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2921,47 +3217,55 @@
       "rastlaşmaqlardan",
       "rastlaşmaqlərdən"
     ],
-    "suggest": "uğramaq, uğraşmaq; üz üzə gəlmək, üzləşmək; qarşı-qarşıya gəlmək, qarşılaşmaq",
-    "link": "https://t.me/azerbaycan_turki/755"
+    "suggests": [
+      {
+        "text": "uğramaq, uğraşmaq; üz üzə gəlmək, üzləşmək; qarşı-qarşıya gəlmək, qarşılaşmaq",
+        "link": "https://t.me/azerbaycan_turki/755"
+      }
+    ]
   },
   {
     "triggers": [
-      "rast gəlmək",
-      "rast gəlməku",
-      "rast gəlməkü",
-      "rast gəlməkı",
-      "rast gəlməki",
-      "rast gəlməkun",
-      "rast gəlməkün",
-      "rast gəlməkın",
-      "rast gəlməkin",
-      "rast gəlməksu",
-      "rast gəlməksü",
-      "rast gəlməksı",
-      "rast gəlməksi",
-      "rast gəlməka",
-      "rast gəlməkə",
-      "rast gəlməkya",
-      "rast gəlməkyə",
-      "rast gəlməklar",
-      "rast gəlməklər",
-      "rast gəlməkları",
-      "rast gəlməkləri",
-      "rast gəlməkda",
-      "rast gəlməkdə",
-      "rast gəlməkdan",
-      "rast gəlməkdən",
-      "rast gəlməkların",
-      "rast gəlməklərin",
-      "rast gəlməklara",
-      "rast gəlməklərə",
-      "rast gəlməklarda",
-      "rast gəlməklərdə",
-      "rast gəlməklardan",
-      "rast gəlməklərdən"
+      "rast",
+      "rast u",
+      "rast ü",
+      "rast ı",
+      "rast i",
+      "rast un",
+      "rast ün",
+      "rast ın",
+      "rast in",
+      "rast su",
+      "rast sü",
+      "rast sı",
+      "rast si",
+      "rast a",
+      "rast ə",
+      "rast ya",
+      "rast yə",
+      "rast lar",
+      "rast lər",
+      "rast ları",
+      "rast ləri",
+      "rast da",
+      "rast də",
+      "rast dan",
+      "rast dən",
+      "rast ların",
+      "rast lərin",
+      "rast lara",
+      "rast lərə",
+      "rast larda",
+      "rast lərdə",
+      "rast lardan",
+      "rast lərdən"
     ],
-    "suggest": "uğramaq, uğraşmaq; üz üzə gəlmək, üzləşmək; qarşı-qarşıya gəlmək, qarşılaşmaq",
-    "link": "https://t.me/azerbaycan_turki/755"
+    "suggests": [
+      {
+        "text": "uğramaq, uğraşmaq; üz üzə gəlmək, üzləşmək; qarşı-qarşıya gəlmək, qarşılaşmaq",
+        "link": "https://t.me/azerbaycan_turki/755"
+      }
+    ]
   },
   {
     "triggers": [
@@ -2999,8 +3303,12 @@
       "zənginlardan",
       "zənginlərdən"
     ],
-    "suggest": "varlı",
-    "link": "https://t.me/azerbaycan_turki/767"
+    "suggests": [
+      {
+        "text": "varlı",
+        "link": "https://t.me/azerbaycan_turki/767"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3038,8 +3346,12 @@
       "digərlardan",
       "digərlərdən"
     ],
-    "suggest": "başqa, ayrı",
-    "link": "https://t.me/azerbaycan_turki/774"
+    "suggests": [
+      {
+        "text": "başqa, ayrı",
+        "link": "https://t.me/azerbaycan_turki/774"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3077,8 +3389,12 @@
       "hisslardan",
       "hisslərdən"
     ],
-    "suggest": "duyğu",
-    "link": "https://t.me/azerbaycan_turki/782"
+    "suggests": [
+      {
+        "text": "duyğu",
+        "link": "https://t.me/azerbaycan_turki/782"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3116,8 +3432,12 @@
       "hiss etməklardan",
       "hiss etməklərdən"
     ],
-    "suggest": "duymaq",
-    "link": "https://t.me/azerbaycan_turki/783"
+    "suggests": [
+      {
+        "text": "duymaq",
+        "link": "https://t.me/azerbaycan_turki/783"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3155,8 +3475,12 @@
       "məhv etməklardan",
       "məhv etməklərdən"
     ],
-    "suggest": "yox etmək, puç etmək",
-    "link": "https://t.me/azerbaycan_turki/927"
+    "suggests": [
+      {
+        "text": "yox etmək, puç etmək",
+        "link": "https://t.me/azerbaycan_turki/927"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3194,8 +3518,12 @@
       "tələf etməklardan",
       "tələf etməklərdən"
     ],
-    "suggest": "yox etmək, puç etmək",
-    "link": "https://t.me/azerbaycan_turki/927"
+    "suggests": [
+      {
+        "text": "yox etmək, puç etmək",
+        "link": "https://t.me/azerbaycan_turki/927"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3233,8 +3561,12 @@
       "hamiləlardan",
       "hamilələrdən"
     ],
-    "suggest": "boyudolu, boylu",
-    "link": "https://t.me/azerbaycan_turki/932"
+    "suggests": [
+      {
+        "text": "boyudolu, boylu",
+        "link": "https://t.me/azerbaycan_turki/932"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3272,8 +3604,12 @@
       "dərk etməklardan",
       "dərk etməklərdən"
     ],
-    "suggest": "başa düşmək, anlamaq",
-    "link": "https://t.me/azerbaycan_turki/935"
+    "suggests": [
+      {
+        "text": "başa düşmək, anlamaq",
+        "link": "https://t.me/azerbaycan_turki/935"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3311,8 +3647,12 @@
       "dərdlardan",
       "dərdlərdən"
     ],
-    "suggest": "qada",
-    "link": "https://t.me/azerbaycan_turki/964"
+    "suggests": [
+      {
+        "text": "qada",
+        "link": "https://t.me/azerbaycan_turki/964"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3350,8 +3690,12 @@
       "bəlalardan",
       "bəlalərdən"
     ],
-    "suggest": "qada",
-    "link": "https://t.me/azerbaycan_turki/964"
+    "suggests": [
+      {
+        "text": "qada",
+        "link": "https://t.me/azerbaycan_turki/964"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3389,8 +3733,12 @@
       "pislardan",
       "pislərdən"
     ],
-    "suggest": "yaman",
-    "link": "https://t.me/azerbaycan_turki/970"
+    "suggests": [
+      {
+        "text": "yaman",
+        "link": "https://t.me/azerbaycan_turki/970"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3428,8 +3776,12 @@
       "bədlardan",
       "bədlərdən"
     ],
-    "suggest": "yaman",
-    "link": "https://t.me/azerbaycan_turki/970"
+    "suggests": [
+      {
+        "text": "yaman",
+        "link": "https://t.me/azerbaycan_turki/970"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3467,8 +3819,12 @@
       "fənalardan",
       "fənalərdən"
     ],
-    "suggest": "yaman",
-    "link": "https://t.me/azerbaycan_turki/970"
+    "suggests": [
+      {
+        "text": "yaman",
+        "link": "https://t.me/azerbaycan_turki/970"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3506,8 +3862,12 @@
       "qatillardan",
       "qatillərdən"
     ],
-    "suggest": "öldürən",
-    "link": "https://t.me/azerbaycan_turki/981"
+    "suggests": [
+      {
+        "text": "öldürən",
+        "link": "https://t.me/azerbaycan_turki/981"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3545,8 +3905,12 @@
       "meşəlardan",
       "meşələrdən"
     ],
-    "suggest": "orman, yış ",
-    "link": "https://t.me/azerbaycan_turki/985"
+    "suggests": [
+      {
+        "text": "orman, yış ",
+        "link": "https://t.me/azerbaycan_turki/985"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3584,8 +3948,12 @@
       "səhhətlardan",
       "səhhətlərdən"
     ],
-    "suggest": "sağlıq sağlamlıq",
-    "link": "https://t.me/azerbaycan_turki/1006"
+    "suggests": [
+      {
+        "text": "sağlıq sağlamlıq",
+        "link": "https://t.me/azerbaycan_turki/1006"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3623,8 +3991,12 @@
       "şirlardan",
       "şirlərdən"
     ],
-    "suggest": "aslan, arslan ",
-    "link": "https://t.me/azerbaycan_turki/1025"
+    "suggests": [
+      {
+        "text": "aslan, arslan ",
+        "link": "https://t.me/azerbaycan_turki/1025"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3662,8 +4034,12 @@
       "güllardan",
       "güllərdən"
     ],
-    "suggest": "çiçək ",
-    "link": "https://t.me/azerbaycan_turki/1028"
+    "suggests": [
+      {
+        "text": "çiçək ",
+        "link": "https://t.me/azerbaycan_turki/1028"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3701,8 +4077,12 @@
       "tərcüməçilardan",
       "tərcüməçilərdən"
     ],
-    "suggest": "Çevirən, Çevirici, Dilmanc",
-    "link": "https://t.me/azerbaycan_turki/1033"
+    "suggests": [
+      {
+        "text": "Çevirən, Çevirici, Dilmanc",
+        "link": "https://t.me/azerbaycan_turki/1033"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3740,8 +4120,12 @@
       "lüğətlardan",
       "lüğətlərdən"
     ],
-    "suggest": "Sözlük",
-    "link": "https://t.me/azerbaycan_turki/1039"
+    "suggests": [
+      {
+        "text": "Sözlük",
+        "link": "https://t.me/azerbaycan_turki/1039"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3779,8 +4163,12 @@
       "nəsihətlardan",
       "nəsihətlərdən"
     ],
-    "suggest": "Öyüd",
-    "link": "https://t.me/azerbaycan_turki/1069"
+    "suggests": [
+      {
+        "text": "Öyüd",
+        "link": "https://t.me/azerbaycan_turki/1069"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3818,8 +4206,12 @@
       "ibrətlardan",
       "ibrətlərdən"
     ],
-    "suggest": "Öyüd",
-    "link": "https://t.me/azerbaycan_turki/1069"
+    "suggests": [
+      {
+        "text": "Öyüd",
+        "link": "https://t.me/azerbaycan_turki/1069"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3857,8 +4249,12 @@
       "məsləhətlardan",
       "məsləhətlərdən"
     ],
-    "suggest": "Öyüd",
-    "link": "https://t.me/azerbaycan_turki/1069"
+    "suggests": [
+      {
+        "text": "Öyüd",
+        "link": "https://t.me/azerbaycan_turki/1069"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3896,8 +4292,12 @@
       "sülhlardan",
       "sülhlərdən"
     ],
-    "suggest": "Barış",
-    "link": "https://t.me/azerbaycan_turki/1073"
+    "suggests": [
+      {
+        "text": "Barış",
+        "link": "https://t.me/azerbaycan_turki/1073"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3935,8 +4335,12 @@
       "abırlardan",
       "abırlərdən"
     ],
-    "suggest": "Ud (Ut)",
-    "link": "https://t.me/azerbaycan_turki/1075"
+    "suggests": [
+      {
+        "text": "Ud (Ut)",
+        "link": "https://t.me/azerbaycan_turki/1075"
+      }
+    ]
   },
   {
     "triggers": [
@@ -3974,8 +4378,12 @@
       "həyalardan",
       "həyalərdən"
     ],
-    "suggest": "Ud (Ut)",
-    "link": "https://t.me/azerbaycan_turki/1075"
+    "suggests": [
+      {
+        "text": "Ud (Ut)",
+        "link": "https://t.me/azerbaycan_turki/1075"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4013,8 +4421,12 @@
       "məşhurlardan",
       "məşhurlərdən"
     ],
-    "suggest": "Adlı-sanlı, Tanınmış ",
-    "link": "https://t.me/azerbaycan_turki/1083"
+    "suggests": [
+      {
+        "text": "Adlı-sanlı, Tanınmış ",
+        "link": "https://t.me/azerbaycan_turki/1083"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4052,8 +4464,12 @@
       "şöhrətlilardan",
       "şöhrətlilərdən"
     ],
-    "suggest": "Adlı-sanlı, Tanınmış ",
-    "link": "https://t.me/azerbaycan_turki/1083"
+    "suggests": [
+      {
+        "text": "Adlı-sanlı, Tanınmış ",
+        "link": "https://t.me/azerbaycan_turki/1083"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4091,8 +4507,12 @@
       "ağıllardan",
       "ağıllərdən"
     ],
-    "suggest": "Us",
-    "link": "https://t.me/azerbaycan_turki/1113"
+    "suggests": [
+      {
+        "text": "Us",
+        "link": "https://t.me/azerbaycan_turki/1113"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4130,8 +4550,12 @@
       "zəkalardan",
       "zəkalərdən"
     ],
-    "suggest": "Us",
-    "link": "https://t.me/azerbaycan_turki/1113"
+    "suggests": [
+      {
+        "text": "Us",
+        "link": "https://t.me/azerbaycan_turki/1113"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4169,8 +4593,12 @@
       "idraklardan",
       "idraklərdən"
     ],
-    "suggest": "Us",
-    "link": "https://t.me/azerbaycan_turki/1113"
+    "suggests": [
+      {
+        "text": "Us",
+        "link": "https://t.me/azerbaycan_turki/1113"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4208,8 +4636,12 @@
       "suallardan",
       "suallərdən"
     ],
-    "suggest": "sorğu, soruğ",
-    "link": "https://t.me/azerbaycan_turki/1507"
+    "suggests": [
+      {
+        "text": "sorğu, soruğ",
+        "link": "https://t.me/azerbaycan_turki/1507"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4247,8 +4679,12 @@
       "hədiyyəlardan",
       "hədiyyələrdən"
     ],
-    "suggest": "Armağan (Ərməğan), Sovqat, Pay",
-    "link": "https://t.me/azerbaycan_turki/1511"
+    "suggests": [
+      {
+        "text": "Armağan (Ərməğan), Sovqat, Pay",
+        "link": "https://t.me/azerbaycan_turki/1511"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4286,8 +4722,12 @@
       "maaşlardan",
       "maaşlərdən"
     ],
-    "suggest": "Donluq, Aylıq",
-    "link": "https://t.me/azerbaycan_turki/1523"
+    "suggests": [
+      {
+        "text": "Donluq, Aylıq",
+        "link": "https://t.me/azerbaycan_turki/1523"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4325,8 +4765,12 @@
       "pullardan",
       "pullərdən"
     ],
-    "suggest": "Ağca",
-    "link": "https://t.me/azerbaycan_turki/1550"
+    "suggests": [
+      {
+        "text": "Ağca",
+        "link": "https://t.me/azerbaycan_turki/1550"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4364,47 +4808,55 @@
       "şeylardan",
       "şeylərdən"
     ],
-    "suggest": "Nəsnə",
-    "link": "https://t.me/azerbaycan_turki/1563"
+    "suggests": [
+      {
+        "text": "Nəsnə",
+        "link": "https://t.me/azerbaycan_turki/1563"
+      }
+    ]
   },
   {
     "triggers": [
-      "məkan",
-      "məkanu",
-      "məkanü",
-      "məkanı",
-      "məkani",
-      "məkanun",
-      "məkanün",
-      "məkanın",
-      "məkanin",
-      "məkansu",
-      "məkansü",
-      "məkansı",
-      "məkansi",
-      "məkana",
-      "məkanə",
-      "məkanya",
-      "məkanyə",
-      "məkanlar",
-      "məkanlər",
-      "məkanları",
-      "məkanləri",
-      "məkanda",
-      "məkandə",
-      "məkandan",
-      "məkandən",
-      "məkanların",
-      "məkanlərin",
-      "məkanlara",
-      "məkanlərə",
-      "məkanlarda",
-      "məkanlərdə",
-      "məkanlardan",
-      "məkanlərdən"
+      "lokasiya",
+      "lokasiyau",
+      "lokasiyaü",
+      "lokasiyaı",
+      "lokasiyai",
+      "lokasiyaun",
+      "lokasiyaün",
+      "lokasiyaın",
+      "lokasiyain",
+      "lokasiyasu",
+      "lokasiyasü",
+      "lokasiyası",
+      "lokasiyasi",
+      "lokasiyaa",
+      "lokasiyaə",
+      "lokasiyaya",
+      "lokasiyayə",
+      "lokasiyalar",
+      "lokasiyalər",
+      "lokasiyaları",
+      "lokasiyaləri",
+      "lokasiyada",
+      "lokasiyadə",
+      "lokasiyadan",
+      "lokasiyadən",
+      "lokasiyaların",
+      "lokasiyalərin",
+      "lokasiyalara",
+      "lokasiyalərə",
+      "lokasiyalarda",
+      "lokasiyalərdə",
+      "lokasiyalardan",
+      "lokasiyalərdən"
     ],
-    "suggest": "Yerləşmə",
-    "link": "https://t.me/azerbaycan_turki/1604"
+    "suggests": [
+      {
+        "text": "Yerləşmə",
+        "link": "https://t.me/azerbaycan_turki/1604"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4442,8 +4894,12 @@
       "pələnglardan",
       "pələnglərdən"
     ],
-    "suggest": "Qaplan",
-    "link": "https://t.me/azerbaycan_turki/1622"
+    "suggests": [
+      {
+        "text": "Qaplan",
+        "link": "https://t.me/azerbaycan_turki/1622"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4481,8 +4937,12 @@
       "təriflardan",
       "təriflərdən"
     ],
-    "suggest": "Öygü, Öymə, Alqış ",
-    "link": "https://t.me/azerbaycan_turki/1658"
+    "suggests": [
+      {
+        "text": "Öygü, Öymə, Alqış ",
+        "link": "https://t.me/azerbaycan_turki/1658"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4520,8 +4980,12 @@
       "admirallardan",
       "admirallərdən"
     ],
-    "suggest": "Dənizbəyi",
-    "link": "https://t.me/azerbaycan_turki/1682"
+    "suggests": [
+      {
+        "text": "Dənizbəyi",
+        "link": "https://t.me/azerbaycan_turki/1682"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4559,8 +5023,12 @@
       "ianəlardan",
       "ianələrdən"
     ],
-    "suggest": "Bağış",
-    "link": "https://t.me/azerbaycan_turki/1703"
+    "suggests": [
+      {
+        "text": "Bağış",
+        "link": "https://t.me/azerbaycan_turki/1703"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4598,8 +5066,12 @@
       "səfirlardan",
       "səfirlərdən"
     ],
-    "suggest": "Elçi",
-    "link": "https://t.me/azerbaycan_turki/1717"
+    "suggests": [
+      {
+        "text": "Elçi",
+        "link": "https://t.me/azerbaycan_turki/1717"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4637,8 +5109,12 @@
       "şahidlardan",
       "şahidlərdən"
     ],
-    "suggest": "Tanıq",
-    "link": "https://t.me/azerbaycan_turki/1723"
+    "suggests": [
+      {
+        "text": "Tanıq",
+        "link": "https://t.me/azerbaycan_turki/1723"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4676,8 +5152,12 @@
       "növlardan",
       "növlərdən"
     ],
-    "suggest": "Cür, Dürlü",
-    "link": "https://t.me/azerbaycan_turki/1737"
+    "suggests": [
+      {
+        "text": "Cür, Dürlü",
+        "link": "https://t.me/azerbaycan_turki/1737"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4715,8 +5195,12 @@
       "imkanlardan",
       "imkanlərdən"
     ],
-    "suggest": "Olarlıq ",
-    "link": "https://t.me/azerbaycan_turki/1738"
+    "suggests": [
+      {
+        "text": "Olarlıq ",
+        "link": "https://t.me/azerbaycan_turki/1738"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4754,8 +5238,12 @@
       "mümkünlardan",
       "mümkünlərdən"
     ],
-    "suggest": "Ola bilən, Olacaq",
-    "link": "https://t.me/azerbaycan_turki/1748"
+    "suggests": [
+      {
+        "text": "Ola bilən, Olacaq",
+        "link": "https://t.me/azerbaycan_turki/1748"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4793,8 +5281,16 @@
       "cənublardan",
       "cənublərdən"
     ],
-    "suggest": "Güney, Günəvər",
-    "link": "https://t.me/azerbaycan_turki/1750"
+    "suggests": [
+      {
+        "text": "Güney, Günəvər",
+        "link": "https://t.me/azerbaycan_turki/1750"
+      },
+      {
+        "text": "^-^",
+        "link": "https://google.com/"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4832,8 +5328,12 @@
       "şərqlardan",
       "şərqlərdən"
     ],
-    "suggest": "Doğu, Gündoğan, Günçıxan",
-    "link": "https://t.me/azerbaycan_turki/1750"
+    "suggests": [
+      {
+        "text": "Doğu, Gündoğan, Günçıxan",
+        "link": "https://t.me/azerbaycan_turki/1750"
+      }
+    ]
   },
   {
     "triggers": [
@@ -4871,7 +5371,11 @@
       "xilaskarlardan",
       "xilaskarlərdən"
     ],
-    "suggest": "Qurtarıcı",
-    "link": "https://t.me/azerbaycan_turki/1752"
+    "suggests": [
+      {
+        "text": "Qurtarıcı",
+        "link": "https://t.me/azerbaycan_turki/1752"
+      }
+    ]
   }
 ]

@@ -16,9 +16,8 @@ wordmap = {}
 with open("data.json","r") as f:
   data = json.load(f)
 for r in data:
-  suggest = [r["suggest"], r["link"]]
   for w in r["triggers"]:
-    wordmap[w] = suggest
+    wordmap[w] = r["suggests"]
 
 # python 3.6+ required to preserve order of list items
 def unique(l):
@@ -32,17 +31,23 @@ def trigger_message(message):
     print (" message time too old :(")
     return
   words = unique(nltk.word_tokenize(msg))
-  print (words)
-  suggests = []
+  suggests = {}
   for w in words:
     try:
-      suggest = wordmap[w.lower()]
+      word_suggests = wordmap[w.lower()]
     except KeyError:
       continue
-    suggests.append([w,suggest[0],suggest[1]])
+    suggests[w] = word_suggests
   if len(suggests) > 0:
-    suggest_msg = "\n\n".join(map(lambda x:f"*{x[0]}* yerinə [{x[1]}]({x[2]}) demək olar", suggests))
-    print (suggest_msg)
+    suggest_text_arr = []
+    for w, suggest_arr in suggests.items():
+      single_suggest_text_arr = []
+      for ss in suggest_arr:
+        single_suggest_text_arr.append(f"[{ss['text']}]({ss['link']})")
+      single_suggest_text = ", ".join(single_suggest_text_arr)
+      suggest_text_arr.append(f"*{w}* yerinə {single_suggest_text} demək olar")
+    suggest_msg = "\n\n".join(suggest_text_arr)
+    print (f" `--> {suggest_msg}")
     bot.send_message(message.chat.id, suggest_msg, reply_to_message_id=message.message_id, parse_mode="Markdown", disable_web_page_preview=True)
 
 while True:

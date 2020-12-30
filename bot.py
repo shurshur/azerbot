@@ -30,7 +30,7 @@ def trigger_message(message):
   if time() > message.date+config.max_timediff:
     print (" message time too old :(")
     return
-  words = unique(nltk.word_tokenize(msg))
+  words = unique(nltk.word_tokenize(msg, 'turkish'))
   suggests = {}
   for w in words:
     try:

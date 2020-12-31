@@ -23,6 +23,14 @@ for r in data:
 def unique(l):
   return list(dict.fromkeys(l))
 
+@bot.message_handler(commands=['help','start'])
+def welcome_message(message):
+  if message.chat.type != 'private': return
+  msg = """Salam. Bu bot dilimizin varlığını qorumaq üçündür. Bu botu söhbət qruplara salıb, bəzi alınma sözlərinin doğma qarşılığı öyrənə bilərsiniz. Bot alınma sözləri görüb, öz sözlərimizi işlətməyə təklif edəcək. Bunun üçün botu admin eyləmək gərək deyil, sadəcə qrupa qoşun.
+
+Botdakı qarşılıqlar @azerbaycan_turki kanalın #azerbaycan_purizm həştəqli paylaşımlar əsasındadır."""
+  bot.send_message(message.chat.id, msg)
+
 @bot.message_handler(content_types=['text'])
 def trigger_message(message):
   msg = message.text

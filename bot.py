@@ -6,9 +6,12 @@ import telebot
 import requests
 from time import time, localtime, strftime, sleep
 import nltk
+from stemmer.stemmer import Stemmer
 import config
 
 assert sys.version_info > (3,6)
+
+stemmer = Stemmer()
 
 bot = telebot.TeleBot(config.bot_token)
 
@@ -42,7 +45,10 @@ def trigger_message(message):
   suggests = {}
   for w in words:
     try:
-      word_suggests = wordmap[w.lower()]
+      # stemmer.stem_word is useless for us :(
+      sw = stemmer.stem_words([w])[0]
+      print (f"  << sw={sw}")
+      word_suggests = wordmap[sw]
     except KeyError:
       continue
     suggests[w] = word_suggests
@@ -55,7 +61,7 @@ def trigger_message(message):
       single_suggest_text = "; ".join(single_suggest_text_arr)
       suggest_text_arr.append(f"*{w}* yerinə {single_suggest_text} demək olar")
     suggest_msg = "\n\n".join(suggest_text_arr)
-    suggest_msg_out = suggest_msg.replace('\n','\n      ')
+    suggest_msg_out = suggest_msg.replace('\n','\n      ').replace('\n      \n','\n\n')
     print (f" `--> {suggest_msg_out}")
     bot.send_message(message.chat.id, suggest_msg, reply_to_message_id=message.message_id, parse_mode="Markdown", disable_web_page_preview=True)
 

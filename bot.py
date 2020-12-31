@@ -52,7 +52,7 @@ def trigger_message(message):
       single_suggest_text_arr = []
       for ss in suggest_arr:
         single_suggest_text_arr.append(f"[{ss['text']}]({ss['link']})")
-      single_suggest_text = ", ".join(single_suggest_text_arr)
+      single_suggest_text = "; ".join(single_suggest_text_arr)
       suggest_text_arr.append(f"*{w}* yerinə {single_suggest_text} demək olar")
     suggest_msg = "\n\n".join(suggest_text_arr)
     suggest_msg_out = suggest_msg.replace('\n','\n      ')

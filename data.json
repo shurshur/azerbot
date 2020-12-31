@@ -7872,7 +7872,9 @@
   },
   {
     "triggers": [
+      "həm",
       "həmdə",
+      "hem",
       "hemde"
     ],
     "suggests": [

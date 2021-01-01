@@ -37,7 +37,7 @@ Botdakı qarşılıqlar @azerbaycan_turki kanalın #azerbaycan_purizm həştəql
 @bot.message_handler(content_types=['text'])
 def trigger_message(message):
   msg = message.text
-  print ("%s|%s <%s %s> %s" % (str(message.chat.id), strftime("%Y-%m-%d %H:%M:%S", localtime(message.date)), message.from_user.first_name, message.from_user.last_name, msg))
+  print ("%s|%s|%s|%s <%s %s> %s" % (message.chat.type, str(message.chat.id), message.chat.title, strftime("%Y-%m-%d %H:%M:%S", localtime(message.date)), message.from_user.first_name, message.from_user.last_name, msg))
   if time() > message.date+config.max_timediff:
     print (" message time too old :(")
     return

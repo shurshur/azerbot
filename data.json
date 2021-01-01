@@ -1438,16 +1438,5 @@
         "link": "https://t.me/azerbaycan_turki/1760"
       }
     ]
-  },
-  {
-    "triggers": [
-      "ekler"
-    ],
-    "suggests": [
-      {
-        "text": "",
-        "link": ""
-      }
-    ]
   }
 ]

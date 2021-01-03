@@ -50,7 +50,7 @@ def trigger_message(message):
       word_suggests = wordmap[sw]
     except KeyError:
       continue
-    suggests[w] = word_suggests
+    suggests[sw] = word_suggests
   if len(suggests) > 0:
     suggest_text_arr = []
     for w, suggest_arr in suggests.items():

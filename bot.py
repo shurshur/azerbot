@@ -13,7 +13,7 @@ assert sys.version_info > (3,6)
 
 stemmer = Stemmer()
 
-bot = telebot.TeleBot(config.bot_token)
+bot = telebot.TeleBot(config.bot_token, skip_pending=True)
 
 wordmap = {}
 with open("data.json","r") as f:
@@ -66,7 +66,7 @@ def trigger_message(message):
 
 while True:
   try:
-    bot.polling()
+    bot.polling(none_stop=True)
   except requests.exceptions.ConnectionError:
     print (" ConnectionError exception occured while polling, restart in 1 second...")
     sleep(1)

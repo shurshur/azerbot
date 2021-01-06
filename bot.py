@@ -46,7 +46,7 @@ def trigger_message(message):
   for w in words:
     try:
       # stemmer.stem_word is useless for us :(
-      sw = stemmer.stem_words([w])[0]
+      sw = stemmer.stem_words([w])[0].lower()
       word_suggests = wordmap[sw]
     except KeyError:
       continue

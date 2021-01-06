@@ -1438,5 +1438,66 @@
         "link": "https://t.me/azerbaycan_turki/1760"
       }
     ]
+  },
+  {
+    "triggers": [
+      "lazım"
+    ],
+    "suggests": [
+      {
+        "text": "gərək, gərəkli",
+        "link": "https://t.me/azerbaycan_turki/1783"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "vacib"
+    ],
+    "suggests": [
+      {
+        "text": "gərək, gərəkli",
+        "link": "https://t.me/azerbaycan_turki/1783"
+      },
+      {
+        "text": "önəm, önəmli",
+        "link": "https://t.me/azerbaycan_turki/1760"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "zəruri",
+      "zeruri"
+    ],
+    "suggests": [
+      {
+        "text": "gərək, gərəkli",
+        "link": "https://t.me/azerbaycan_turki/1783"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "zərurət",
+      "zeruret"
+    ],
+    "suggests": [
+      {
+        "text": "gərək, gərəkli",
+        "link": "https://t.me/azerbaycan_turki/1783"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "lüzum"
+    ],
+    "suggests": [
+      {
+        "text": "gərək, gərəkli",
+        "link": "https://t.me/azerbaycan_turki/1783"
+      }
+    ]
   }
 ]

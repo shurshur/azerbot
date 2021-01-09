@@ -1499,5 +1499,16 @@
         "link": "https://t.me/azerbaycan_turki/1783"
       }
     ]
+  },
+  {
+    "triggers": [
+      "i̇nkar"
+    ],
+    "suggests": [
+      {
+        "text": "danma, danmaq",
+        "link": "https://t.me/azerbaycan_turki/1802"
+      }
+    ]
   }
 ]

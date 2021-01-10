@@ -1511,5 +1511,16 @@
         "link": "https://t.me/azerbaycan_turki/1802"
       }
     ]
+  },
+  {
+    "triggers": [
+      "sahib"
+    ],
+    "suggests": [
+      {
+        "text": "yiyə",
+        "link": "https://t.me/azerbaycan_turki/1807"
+      }
+    ]
   }
 ]

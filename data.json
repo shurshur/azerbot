@@ -1522,5 +1522,41 @@
         "link": "https://t.me/azerbaycan_turki/1807"
       }
     ]
+  },
+  {
+    "triggers": [
+      "xidmət",
+      "xidmet"
+    ],
+    "suggests": [
+      {
+        "text": "qulluq",
+        "link": "https://t.me/azerbaycan_turki/1843"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "xidmətkar",
+      "xidmetkar"
+    ],
+    "suggests": [
+      {
+        "text": "qulluqçu",
+        "link": "https://t.me/azerbaycan_turki/1843"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "xidmətçi",
+      "xidmetçi"
+    ],
+    "suggests": [
+      {
+        "text": "qulluqçu",
+        "link": "https://t.me/azerbaycan_turki/1843"
+      }
+    ]
   }
 ]

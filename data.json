@@ -1558,5 +1558,29 @@
         "link": "https://t.me/azerbaycan_turki/1843"
       }
     ]
+  },
+  {
+    "triggers": [
+      "köhnə",
+      "köhne"
+    ],
+    "suggests": [
+      {
+        "text": "əski, keçmiş",
+        "link": "https://t.me/azerbaycan_turki/1582"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "qədim",
+      "qedim"
+    ],
+    "suggests": [
+      {
+        "text": "əski, keçmiş",
+        "link": "https://t.me/azerbaycan_turki/1582"
+      }
+    ]
   }
 ]

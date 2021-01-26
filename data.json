@@ -1582,5 +1582,17 @@
         "link": "https://t.me/azerbaycan_turki/1582"
       }
     ]
+  },
+  {
+    "triggers": [
+      "həmvətən",
+      "hemveten"
+    ],
+    "suggests": [
+      {
+        "text": "yurddaş",
+        "link": "https://t.me/azerbaycan_turki/1871"
+      }
+    ]
   }
 ]

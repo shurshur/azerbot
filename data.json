@@ -475,17 +475,6 @@
   },
   {
     "triggers": [
-      "azad"
-    ],
-    "suggests": [
-      {
-        "text": "boş",
-        "link": "https://t.me/azerbaycan_turki/562"
-      }
-    ]
-  },
-  {
-    "triggers": [
       "sərbəst",
       "serbest"
     ],

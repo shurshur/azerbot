@@ -1583,5 +1583,17 @@
         "link": "https://t.me/azerbaycan_turki/1871"
       }
     ]
+  },
+  {
+    "triggers": [
+      "rəqəm",
+      "reqem"
+    ],
+    "suggests": [
+      {
+        "text": "san, say",
+        "link": "https://t.me/azerbaycan_turki/1917"
+      }
+    ]
   }
 ]

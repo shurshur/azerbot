@@ -514,7 +514,7 @@
     ],
     "suggests": [
       {
-        "text": "savaş, qovqu",
+        "text": "savaş, qovğu",
         "link": "https://t.me/azerbaycan_turki/570"
       }
     ]
@@ -1593,6 +1593,18 @@
       {
         "text": "san, say",
         "link": "https://t.me/azerbaycan_turki/1917"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "müxtəlif",
+      "müxtelif"
+    ],
+    "suggests": [
+      {
+        "text": "cürbəcür, dürlü-dürlü, cürə-cürə",
+        "link": "https://t.me/azerbaycan_turki/1953"
       }
     ]
   }

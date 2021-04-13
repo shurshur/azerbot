@@ -636,18 +636,6 @@
   },
   {
     "triggers": [
-      "şərik",
-      "şerik"
-    ],
-    "suggests": [
-      {
-        "text": "yoldaş, arxadaş",
-        "link": "https://t.me/irs_azerbaijan/631"
-      }
-    ]
-  },
-  {
-    "triggers": [
       "məclis",
       "meclis"
     ],
@@ -1629,6 +1617,52 @@
       {
         "text": "aşılama, calama, döycə",
         "link": "https://t.me/irs_azerbaijan/2015"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "həqiqi",
+      "heqiqi"
+    ],
+    "suggests": [
+      {
+        "text": "gerçək",
+        "link": "https://t.me/irs_azerbaijan/2141"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "real"
+    ],
+    "suggests": [
+      {
+        "text": "gerçək",
+        "link": "https://t.me/irs_azerbaijan/2141"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "həqiqət",
+      "heqiqet"
+    ],
+    "suggests": [
+      {
+        "text": "gerçəklik, varlıq",
+        "link": "https://t.me/irs_azerbaijan/2141"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "reallıq"
+    ],
+    "suggests": [
+      {
+        "text": "gerçəklik, varlıq",
+        "link": "https://t.me/irs_azerbaijan/2141"
       }
     ]
   }

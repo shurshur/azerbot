@@ -1665,5 +1665,29 @@
         "link": "https://t.me/irs_azerbaijan/2141"
       }
     ]
+  },
+  {
+    "triggers": [
+      "redaktə",
+      "redakte"
+    ],
+    "suggests": [
+      {
+        "text": "düzəliş, düzəltmə",
+        "link": "https://t.me/irs_azerbaijan/2152"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "təshih",
+      "teshih"
+    ],
+    "suggests": [
+      {
+        "text": "düzəliş, düzəltmə",
+        "link": "https://t.me/irs_azerbaijan/2152"
+      }
+    ]
   }
 ]

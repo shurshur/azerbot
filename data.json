@@ -934,7 +934,7 @@
     ],
     "suggests": [
       {
-        "text": "yaman",
+        "text": "yaman, yava",
         "link": "https://t.me/irs_azerbaijan/970"
       }
     ]
@@ -946,7 +946,7 @@
     ],
     "suggests": [
       {
-        "text": "yaman",
+        "text": "yaman, yava",
         "link": "https://t.me/irs_azerbaijan/970"
       }
     ]
@@ -958,7 +958,7 @@
     ],
     "suggests": [
       {
-        "text": "yaman",
+        "text": "yaman, yava",
         "link": "https://t.me/irs_azerbaijan/970"
       }
     ]
@@ -1682,6 +1682,17 @@
     "triggers": [
       "təshih",
       "teshih"
+    ],
+    "suggests": [
+      {
+        "text": "düzəliş, düzəltmə",
+        "link": "https://t.me/irs_azerbaijan/2152"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "redaksiya"
     ],
     "suggests": [
       {

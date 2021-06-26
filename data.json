@@ -1700,5 +1700,40 @@
         "link": "https://t.me/irs_azerbaijan/2152"
       }
     ]
+  },
+  {
+    "triggers": [
+      "mənzərə",
+      "menzere"
+    ],
+    "suggests": [
+      {
+        "text": "axar-baxar",
+        "link": "https://t.me/irs_azerbaijan/2340"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "orijinal"
+    ],
+    "suggests": [
+      {
+        "text": "özgün",
+        "link": "https://t.me/irs_azerbaijan/2367"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "özünəməxsus",
+      "özünemexsus"
+    ],
+    "suggests": [
+      {
+        "text": "özgün",
+        "link": "https://t.me/irs_azerbaijan/2367"
+      }
+    ]
   }
 ]

@@ -1735,5 +1735,61 @@
         "link": "https://t.me/irs_azerbaijan/2367"
       }
     ]
+  },
+  {
+    "triggers": [
+      "darçını"
+    ],
+    "suggests": [
+      {
+        "text": "qonur",
+        "link": "https://t.me/irs_azerbaijan/2418"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "şabalıdlı"
+    ],
+    "suggests": [
+      {
+        "text": "qonur",
+        "link": "https://t.me/irs_azerbaijan/2418"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "qəhvəyi",
+      "qehveyi"
+    ],
+    "suggests": [
+      {
+        "text": "qonur",
+        "link": "https://t.me/irs_azerbaijan/2418"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "lifçik"
+    ],
+    "suggests": [
+      {
+        "text": "döşlük",
+        "link": "https://t.me/irs_azerbaijan/2427"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "büsthalter"
+    ],
+    "suggests": [
+      {
+        "text": "döşlük",
+        "link": "https://t.me/irs_azerbaijan/2427"
+      }
+    ]
   }
 ]

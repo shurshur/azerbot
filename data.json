@@ -1791,5 +1791,113 @@
         "link": "https://t.me/irs_azerbaijan/2427"
       }
     ]
+  },
+  {
+    "triggers": [
+      "tətqiq",
+      "tetqiq"
+    ],
+    "suggests": [
+      {
+        "text": "araşdırma",
+        "link": "https://t.me/irs_azerbaijan/2478"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "tətqiqat",
+      "tetqiqat"
+    ],
+    "suggests": [
+      {
+        "text": "araşdırma",
+        "link": "https://t.me/irs_azerbaijan/2478"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "tətqiqatçı",
+      "tetqiqatçı"
+    ],
+    "suggests": [
+      {
+        "text": "araşdırıcı, araşdırmaçı",
+        "link": "https://t.me/irs_azerbaijan/2478"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "tərəfdar",
+      "terefdar"
+    ],
+    "suggests": [
+      {
+        "text": "yandaş",
+        "link": "https://t.me/irs_azerbaijan/2487"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "təbəddül",
+      "tebeddül"
+    ],
+    "suggests": [
+      {
+        "text": "dəyişiklik",
+        "link": "https://t.me/irs_azerbaijan/2496"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "təbəddülat",
+      "tebeddülat"
+    ],
+    "suggests": [
+      {
+        "text": "dəyişiklik",
+        "link": "https://t.me/irs_azerbaijan/2496"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "müvəqqəti",
+      "müveqqeti"
+    ],
+    "suggests": [
+      {
+        "text": "keçici, ötücü",
+        "link": "https://t.me/irs_azerbaijan/2530"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "inşaat"
+    ],
+    "suggests": [
+      {
+        "text": "tikinti",
+        "link": "https://t.me/irs_azerbaijan/2555"
+      }
+    ]
+  },
+  {
+    "triggers": [
+      "mahnı",
+      "şərqi",
+      "şerqi"
+    ],
+    "suggests": [
+      {
+        "text": "yir, türkü",
+        "link": "https://t.me/irs_azerbaijan/2563"
+      }
+    ]
   }
 ]

@@ -13,7 +13,7 @@ assert sys.version_info > (3,6)
 
 stemmer = Stemmer()
 
-bot = telebot.TeleBot(config.bot_token, skip_pending=True)
+bot = telebot.TeleBot(config.bot_token, skip_pending=True, threaded=False)
 
 wordmap = {}
 with open("data.json","r") as f:
@@ -46,7 +46,11 @@ def trigger_message(message):
   for w in words:
     try:
       # stemmer.stem_word is useless for us :(
-      sw = stemmer.stem_words([w])[0].lower()
+      try:
+        sw = stemmer.stem_words([w])[0].lower()
+      except RecursionError:
+        print ("Stemmer throws RecursionError, skip message")
+        return
       word_suggests = wordmap[sw]
     except KeyError:
       continue
